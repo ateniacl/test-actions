@@ -1,4 +1,6 @@
-name: Java sin secretos
+name: Primer actions
+run-name: accionando
+
 on: [push]
 
 jobs:
