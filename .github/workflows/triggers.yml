@@ -27,8 +27,6 @@ on:
         required: true
         default: atenia
         type: string
-  schedule:
-    - cron:  '10 21 * * *'
 jobs:
   hola-mundo-manual:
     runs-on: ubuntu-latest
